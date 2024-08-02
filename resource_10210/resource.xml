@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="346" moduleid="10210" modulename="resource" contextid="73528">
+  <resource id="346">
+    <name>Unit 3: How Do You Approach Integrating Technology?</name>
+    <intro>&lt;p&gt;The default view opens the unit in this browser window. For optimal viewing, &lt;a href="$@PLUGINFILEBYCONTEXT*73528@$/mod_resource/content/3/content/index.html" target="_blank" title="$@PLUGINFILEBYCONTEXT*73528@$/mod_resource/content/3/content/index.html"&gt;open the unit in a new window.&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1721840278</timemodified>
+  </resource>
+</activity>

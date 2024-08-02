@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2091" moduleid="10207" modulename="label" contextid="73525">
+  <label id="2091">
+    <name>A note taking handout is linked below for your use...</name>
+    <intro>&lt;strong&gt;A note taking handout&amp;nbsp;&lt;/strong&gt;is linked below for your use as you work through the course and for later reference. You can download the handout here:&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-03/Notes-Takeaways-508-RE.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-03/Notes-Takeaways-508-RE.pdf"&gt;Notes and Takeaways&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1711564874</timemodified>
+  </label>
+</activity>
